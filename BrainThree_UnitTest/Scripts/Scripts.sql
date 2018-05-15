@@ -13,4 +13,4 @@ Post-Deployment Script Template
 
 /*POST DEPLOY SCRIPT*/
 
-raiserror('Brain Three - Editing the sqlproj file to copy files over', 1,1);
+raiserror('Will be replaced!', 1,1);
